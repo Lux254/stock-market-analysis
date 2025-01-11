@@ -48,9 +48,9 @@ To replicate this project:
 
 ## Results
 The model achieved:
-- **Mean Absolute Error (MAE):** 234.24
-- **Root Mean Squared Error (RMSE):** 317.13
-- **R-squared (R²):** 0.86
+- **Mean Absolute Error (MAE):** 247.53
+- **Root Mean Squared Error (RMSE):** 339.80
+- **R-squared (R²):** 0.84
 
 Incorporating the Exponential Moving Average (EMA) improved prediction accuracy significantly, with a 50% reduction in error metrics compared to models without feature engineering.
 
